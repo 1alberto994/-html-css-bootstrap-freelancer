@@ -13,6 +13,9 @@ img{
 span{
     color: lightgreen;
 }
+ul{
+    list-style: none;
+}
 
 
 
